@@ -4,7 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace UniINPImporter
+namespace UniInochi
 {
-    
+    public static class InpImporter
+    {
+        
+    }
 }
