@@ -8,6 +8,9 @@ namespace UniInochi
 {
     public static class InpImporter
     {
-        
+        public static void Import(Inochi2dPuppet)
+        {
+            
+        }
     }
 }
